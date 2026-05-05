@@ -160,11 +160,9 @@ description: Teamcenter
 
 ## Saved Search
 
-## 71
+## 71 Search by part number
 
 ..............................................................................................................
-
-## Search by Part Number
 
 ## 74
 
