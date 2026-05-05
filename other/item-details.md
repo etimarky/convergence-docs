@@ -4,15 +4,11 @@ description: Item Details
 
 # Item Details
 
-
 ## Item Details
 
-
-![Page 1](../assets/other__item-details_images__page-001.jpg)
-
+![Page 1](../.gitbook/assets/other__item-details_images__page-001.jpg)
 
 ## Search for Parts
-
 
 ## Navigate Structure Data
 
@@ -26,9 +22,7 @@ Now you can see the subcategories under the selected Image. Click on the next Im
 
 In this example, Blower Parts is selected.
 
-
-![Page 2](../assets/other__item-details_images__page-002.jpg)
-
+![Page 2](../.gitbook/assets/other__item-details_images__page-002.jpg)
 
 ## Search for Parts
 
@@ -42,12 +36,9 @@ Now, all parts are displayed in SmartFind. Also, you can see that there are more
 
 the selected Category Name.
 
-
-![Page 3](../assets/other__item-details_images__page-003.jpg)
-
+![Page 3](../.gitbook/assets/other__item-details_images__page-003.jpg)
 
 ## Search for Parts
-
 
 ## Search by Classification
 
@@ -59,9 +50,7 @@ Enter the classification name. Select a category from the drop-down list that ap
 
 The Classification search will allow you to find all categories that contain the word "valves".
 
-
-![Page 4](../assets/other__item-details_images__page-004.jpg)
-
+![Page 4](../.gitbook/assets/other__item-details_images__page-004.jpg)
 
 ## Search for Parts
 
@@ -73,17 +62,13 @@ Clicking on any of the item numbers will take you the main part where there's a 
 
 used for the search.
 
-
-![Page 5](../assets/other__item-details_images__page-005.jpg)
-
+![Page 5](../.gitbook/assets/other__item-details_images__page-005.jpg)
 
 ## Search for Parts
 
-
 ## Saved Search
 
-- Saved searches are managed with permissions. If you do not see the options to manage saved
-searches and you think you should, then please contact your system administrator.**
+* Saved searches are managed with permissions. If you do not see the options to manage saved searches and you think you should, then please contact your system administrator.\*\*
 
 To save a search (and filters) that you have created in SmartFind you can create saved searches.
 
@@ -99,9 +84,7 @@ organization can see and edit the saved search.
 
 Once you have named and chosen mine or global, click save to save the search for future use.
 
-
-![Page 6](../assets/other__item-details_images__page-006.jpg)
-
+![Page 6](../.gitbook/assets/other__item-details_images__page-006.jpg)
 
 ## Search for Parts
 
@@ -118,12 +101,9 @@ category and filters that you had previously made.
 If you click the wrench icon, you can "manage" your saved searches.
 
 1. Search - Click this icon and it will take you to the search.
-
 2. Edit - Click this icon and you can edit the name of the saved search.
 
-
-![Page 7](../assets/other__item-details_images__page-007.jpg)
-
+![Page 7](../.gitbook/assets/other__item-details_images__page-007.jpg)
 
 ## Search for Parts
 
@@ -135,12 +115,9 @@ a global saved search, you will see a "globe" icon to the left of the name of th
 
 you will not be able to get it back.
 
-
-![Page 8](../assets/other__item-details_images__page-008.jpg)
-
+![Page 8](../.gitbook/assets/other__item-details_images__page-008.jpg)
 
 ## Search for Parts
-
 
 ## Search by Part Number
 
@@ -156,9 +133,7 @@ In this case, if you select the part number "oo1-00001" the Part Search option w
 
 part and display all its details.
 
-
-![Page 9](../assets/other__item-details_images__page-009.jpg)
-
+![Page 9](../.gitbook/assets/other__item-details_images__page-009.jpg)
 
 ## Search for Parts
 
@@ -166,12 +141,9 @@ In this case, if you type "001" and click on Search, all parts numbers that begi
 
 displayed.
 
-
-![Page 10](../assets/other__item-details_images__page-010.jpg)
-
+![Page 10](../.gitbook/assets/other__item-details_images__page-010.jpg)
 
 ## Search for Parts
-
 
 ## Search by Keyword
 
@@ -189,9 +161,7 @@ In this case, results will appear displaying any part that has the word "bolt" i
 
 description or category.
 
-
-![Page 11](../assets/other__item-details_images__page-011.jpg)
-
+![Page 11](../.gitbook/assets/other__item-details_images__page-011.jpg)
 
 ## Search for Parts
 
@@ -201,18 +171,15 @@ On the left side of the page, you can see the categories where those items are l
 
 Clicking on any of the item numbers will take you the main part and display all its details.
 
-
-![Page 12](../assets/other__item-details_images__page-012.jpg)
-
+![Page 12](../.gitbook/assets/other__item-details_images__page-012.jpg)
 
 ## Search for Parts
-
 
 ## Search by Text File
 
 1. To first search using a text file, please create a .txt file that contains a list of part numbers that you
 
-would like to search for.  The item numbers must be separated, with one being on each line as shown
+would like to search for. The item numbers must be separated, with one being on each line as shown
 
 below.
 
@@ -220,9 +187,7 @@ below.
 
 see a button in the top left of the screen, shown below. Click on it to upload your file.
 
-
-![Page 13](../assets/other__item-details_images__page-013.jpg)
-
+![Page 13](../.gitbook/assets/other__item-details_images__page-013.jpg)
 
 ## Search for Parts
 
@@ -230,21 +195,17 @@ see a button in the top left of the screen, shown below. Click on it to upload y
 
 the parts that you entered into the text file will be shown.
 
-
-![Page 14](../assets/other__item-details_images__page-014.jpg)
-
+![Page 14](../.gitbook/assets/other__item-details_images__page-014.jpg)
 
 ## SmartFind
-
 
 ## Find Duplicate Parts
 
 Duplicate parts may create discrepancy and even redundancy when storing the same data in multiple
 
-attributes.  Duplicate data can significantly hurt the view of customers and it is the responsibility of all
+attributes. Duplicate data can significantly hurt the view of customers and it is the responsibility of all
 
 business users to effectively manage data at every touch point.
-
 
 ## Duplicate Report from SmartFind
 
@@ -252,11 +213,9 @@ Select SmartFind on the drop-down menu.
 
 To search for a category, select Classification from the drop down menu.
 
-Enter the category name.  Select the category from the drop down list that appears or select Search.
+Enter the category name. Select the category from the drop down list that appears or select Search.
 
-
-![Page 15](../assets/other__item-details_images__page-015.jpg)
-
+![Page 15](../.gitbook/assets/other__item-details_images__page-015.jpg)
 
 ## SmartFind
 
@@ -270,9 +229,7 @@ To change some or all attributes, click onto the attribute box and choose additi
 
 search followed by "OK" and lastly, pressing the blue arrow to submit.
 
-
-![Page 16](../assets/other__item-details_images__page-016.jpg)
-
+![Page 16](../.gitbook/assets/other__item-details_images__page-016.jpg)
 
 ## SmartFind
 
@@ -284,6 +241,4 @@ Below the pie graph, more specific information will appear. The user may select 
 
 travel directly to those specific parts.
 
-
-![Page 17](../assets/other__item-details_images__page-017.jpg)
-
+![Page 17](../.gitbook/assets/other__item-details_images__page-017.jpg)

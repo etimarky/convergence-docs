@@ -4,7 +4,6 @@ description: Attributes
 
 # Attributes
 
-
 ## Attributes
 
 You can now click the greyed out icons to enable the feature or click the colored icons to disable the
@@ -23,20 +22,15 @@ The key icon is Key: This means that the attribute is important (this is usually
 
 purposes).
 
-
-![Page 1](../assets/other__attributes_images__page-001.jpg)
-
+![Page 1](../.gitbook/assets/other__attributes_images__page-001.jpg)
 
 ## Attributes
 
 To finish editing your attribute you can click the green save button to save your progress.
 
-
-![Page 2](../assets/other__attributes_images__page-002.jpg)
-
+![Page 2](../.gitbook/assets/other__attributes_images__page-002.jpg)
 
 ## Attributes
-
 
 ## System Attributes
 
@@ -64,14 +58,11 @@ On the other hand, attributes that are crossed off such as Revision, Legacy Item
 
 Release Date are currently hidden under the selected category.
 
-
-![Page 3](../assets/other__attributes_images__page-003.jpg)
-
+![Page 3](../.gitbook/assets/other__attributes_images__page-003.jpg)
 
 ## Attributes
 
 In order to make changes to a System Attribute, hover over the desired attribute(in this example
-
 
 ### "Status" is updated) and two icons will pop up
 
@@ -81,12 +72,9 @@ children.
 
 Change Name = this option will allow you to change the defaulted name on the attribute.
 
-
-![Page 4](../assets/other__attributes_images__page-004.jpg)
-
+![Page 4](../.gitbook/assets/other__attributes_images__page-004.jpg)
 
 ## Attributes
-
 
 ## Toggle Hidden
 
@@ -106,20 +94,15 @@ a value lower in the tree that overrides will stay there.
 
 After selecting this option, the attribute will be crossed off.
 
-
-![Page 5](../assets/other__attributes_images__page-005.jpg)
-
+![Page 5](../.gitbook/assets/other__attributes_images__page-005.jpg)
 
 ## Attributes
 
 To undo this change, hover over the desired attribute and click on the Toggle Hidden icon.
 
-
-![Page 6](../assets/other__attributes_images__page-006.jpg)
-
+![Page 6](../.gitbook/assets/other__attributes_images__page-006.jpg)
 
 ## Attributes
-
 
 ## Change Name
 
@@ -129,12 +112,9 @@ Click on the Save icon to make changes or click on Cancel icon to undo this step
 
 Once you click on the Save icon, a window will pop up.
 
-
-![Page 7](../assets/other__attributes_images__page-007.jpg)
-
+![Page 7](../.gitbook/assets/other__attributes_images__page-007.jpg)
 
 ## SmartClass
-
 
 ## Attributes(Master Attributes)
 
@@ -146,24 +126,17 @@ Click on the highlighted icon to go to the Attributes page; the screenshot below
 
 Attributes page.
 
-
 ### Click on the links below to access the following pages
-
 
 ## Create New Attributes(Master Attributes)
 
-
 ## Delete Attributes(Master Attributes)
-
 
 ## Localized Attributes
 
-
-![Page 8](../assets/other__attributes_images__page-008.jpg)
-
+![Page 8](../.gitbook/assets/other__attributes_images__page-008.jpg)
 
 ## Attributes(Master Attributes)
-
 
 ## Create New Attributes(Master Attributes)
 
@@ -183,9 +156,7 @@ In the Attributes page, begin typing in the new attribute name and then select A
 
 the screen.
 
-
-![Page 9](../assets/other__attributes_images__page-009.jpg)
-
+![Page 9](../.gitbook/assets/other__attributes_images__page-009.jpg)
 
 ## Attributes(Master Attributes)
 
@@ -201,11 +172,11 @@ Numeric, Boolean, Date, Fraction, URL, Items, Custom or File.
 
 String: string attributes apply to alphanumeric values where the values could include alphabetic
 
-characters. An attribute called "color" may have alpha values of blue, green and white.  A string
+characters. An attribute called "color" may have alpha values of blue, green and white. A string
 
 attribute could also be a combination of alpha and numeric characters; an attribute called
 
-"supplier part number" may have values: 123RDH, 45-TU-67.  String types do not have units of
+"supplier part number" may have values: 123RDH, 45-TU-67. String types do not have units of
 
 measure associated with them.
 
@@ -215,7 +186,7 @@ often, the same instance of a numeric attribute can have different units of meas
 
 attribute called "length" can have a unit of measure of feet or meters. When selecting a unit of
 
-measure, the default unit of measure system is also being determined.  These systems include
+measure, the default unit of measure system is also being determined. These systems include
 
 metric system, international system (SI), and US system. Each numeric attribute will also have a
 
@@ -235,20 +206,15 @@ added to the pull down list.
 
 Click Save once complete.
 
-
-![Page 10](../assets/other__attributes_images__page-010.jpg)
-
+![Page 10](../.gitbook/assets/other__attributes_images__page-010.jpg)
 
 ## Attributes(Master Attributes)
 
 Click on Save to confirm changes.
 
-
-![Page 11](../assets/other__attributes_images__page-011.jpg)
-
+![Page 11](../.gitbook/assets/other__attributes_images__page-011.jpg)
 
 ## Attributes(Master Attributes)
-
 
 ## Delete Attributes(Master Attributes)
 
@@ -266,9 +232,7 @@ Select the attribute.
 
 Click on Operations and select Delete.
 
-
-![Page 12](../assets/other__attributes_images__page-012.jpg)
-
+![Page 12](../.gitbook/assets/other__attributes_images__page-012.jpg)
 
 ## Attributes(Master Attributes)
 
@@ -276,20 +240,15 @@ A final message will appear confirming the deletion.
 
 Select Delete.
 
-
-![Page 13](../assets/other__attributes_images__page-013.jpg)
-
+![Page 13](../.gitbook/assets/other__attributes_images__page-013.jpg)
 
 ## Attributes(Master Attributes)
 
 The attribute has been deleted from the master list. This cannot be undone.
 
-
-![Page 14](../assets/other__attributes_images__page-014.jpg)
-
+![Page 14](../.gitbook/assets/other__attributes_images__page-014.jpg)
 
 ## Attributes(Master Attributes)
-
 
 ## Rich Text Attributes
 
@@ -301,15 +260,11 @@ Rich Text editable field by updating the properties on the attribute to show Ric
 
 A user is then able to edit the attribute and format the text in Item Details as needed.
 
-
-![Page 15](../assets/other__attributes_images__page-015.jpg)
-
+![Page 15](../.gitbook/assets/other__attributes_images__page-015.jpg)
 
 ## Attributes(Master Attributes)
 
-
 ## Localized Attributes
-
 
 ### Definition
 
@@ -317,22 +272,19 @@ Adding localized attributes provides users the ability to duplicate an existing 
 
 culture (language) by creating 2 different attributes.
 
-- Localized attributes keep the same definition except:
+* Localized attributes keep the same definition except:
 
 ## Culture: preferred language
 
 Description: attribute description is unique to the attribute
 
-
 ## Name: attribute name is unique to the attribute
 
-- Localized attributes are assigned to all same categories
-In the Attributes page, select the desired attribute; the details for the selected attribute will display on
+* Localized attributes are assigned to all same categories In the Attributes page, select the desired attribute; the details for the selected attribute will display on
 
 the right side of the screen.
 
 Select the localized attribute section.
-
 
 ## Once expanded, select 'Add'
 
@@ -342,9 +294,7 @@ Enter the name and description in the culture (language) selected.
 
 Select 'Add'.
 
-
-![Page 16](../assets/other__attributes_images__page-016.jpg)
-
+![Page 16](../.gitbook/assets/other__attributes_images__page-016.jpg)
 
 ## Attributes(Master Attributes)
 
@@ -358,6 +308,4 @@ side of the screen.
 
 Now the localized attribute has the same properties as the original attribute.
 
-
-![Page 17](../assets/other__attributes_images__page-017.jpg)
-
+![Page 17](../.gitbook/assets/other__attributes_images__page-017.jpg)

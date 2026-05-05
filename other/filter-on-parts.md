@@ -4,19 +4,15 @@ description: Filter on Parts
 
 # Filter on Parts
 
-
 ## Filter on Parts
 
 OR the user can hover over "Violations", which will then provide a list on which the user can choose
 
 which specific violation they want to filter that attribute by.
 
-
-![Page 1](../assets/other__filter-on-parts_images__page-001.jpg)
-
+![Page 1](../.gitbook/assets/other__filter-on-parts_images__page-001.jpg)
 
 ## Filter on Parts
-
 
 ## Status Filtering
 
@@ -30,9 +26,7 @@ Filters. Let's start with system attribute filters, under this set of filters yo
 
 by item status.
 
-
-![Page 2](../assets/other__filter-on-parts_images__page-002.jpg)
-
+![Page 2](../.gitbook/assets/other__filter-on-parts_images__page-002.jpg)
 
 ## Filter on Parts
 
@@ -46,9 +40,7 @@ screen to apply the filters.
 
 Note: You can select multiple statuses to filter at the same time.
 
-
-![Page 3](../assets/other__filter-on-parts_images__page-003.jpg)
-
+![Page 3](../.gitbook/assets/other__filter-on-parts_images__page-003.jpg)
 
 ## Filter on Parts
 
@@ -56,12 +48,9 @@ It is shown below that the filter for all rejected items in this category is act
 
 the right in the list.
 
-
-![Page 4](../assets/other__filter-on-parts_images__page-004.jpg)
-
+![Page 4](../.gitbook/assets/other__filter-on-parts_images__page-004.jpg)
 
 ## Filter on Parts
-
 
 ## Attribute Filtering
 
@@ -75,9 +64,7 @@ Filters. Let's click the Attribute Filters button on the top.
 
 Click the plus sign to add an attribute filter.
 
-
-![Page 5](../assets/other__filter-on-parts_images__page-005.jpg)
-
+![Page 5](../.gitbook/assets/other__filter-on-parts_images__page-005.jpg)
 
 ## Filter on Parts
 
@@ -93,9 +80,7 @@ SmartFind's advanced filtering.
 
 Type in what you would like to filter by in the box to the right of the operator box, and click apply.
 
-
-![Page 6](../assets/other__filter-on-parts_images__page-006.jpg)
-
+![Page 6](../.gitbook/assets/other__filter-on-parts_images__page-006.jpg)
 
 ## Filter on Parts
 
@@ -107,34 +92,25 @@ You can add as many filter "chips" as you would like and they will add on to one
 
 filtering.
 
-
-![Page 7](../assets/other__filter-on-parts_images__page-007.jpg)
-
+![Page 7](../.gitbook/assets/other__filter-on-parts_images__page-007.jpg)
 
 ## Convergence PIM Online
-
 
 ## SmartClass
 
 SmartClass is the Convergence PIM module where all updates related to the data model are
 
-
 ### performed, including changes to
-
 
 ## Category structure/schema
 
-
 ## Attributes
 
-
 ## Attribute groups
-
 
 ## Allowed Values Lists (AVLs)
 
 Click on the SmartClass icon to access the module.
-
 
 ## SmartClass Functions
 
@@ -154,117 +130,79 @@ The bulleted list icon is the Allowed Values List library, where you can manage 
 
 legal values for attributes.
 
-
-![Page 8](../assets/other__filter-on-parts_images__page-008.jpg)
-
+![Page 8](../.gitbook/assets/other__filter-on-parts_images__page-008.jpg)
 
 ## Convergence PIM Online
 
-
 ### Click on the links below to access the following pages
-
 
 ## Classification
 
-
 ## Structure
-
 
 ## Navigate Classification Structure
 
-
 ## Category Management
-
 
 ## Copy and Paste Categories
 
-
 ## Add New Categories
-
 
 ## Add New Parts Categories
 
-
 ## Add New File Categories
-
 
 ## Edit Categories
 
-
 ## Edit Category Properties
-
 
 ## Edit Category Details
 
-
 ## Delete Category
-
 
 ## Route from Categories to Items
 
-
 ## Add Category Attachments
-
 
 ## Add Category Images
 
-
 ## Assign Allowed Vales Lists
-
 
 ## Attributes
 
-
 ## Edit Attribute Details
-
 
 ## Set Attributes as Key, Required, DNA, and Read Only
 
-
 ## System Attributes
-
 
 ## Attributes(Master Attributes)
 
-
 ## Create New Attributes(Master Attributes)
-
 
 ## Delete Attributes(Master Attributes)
 
-
 ## Localized Attributes
-
 
 ## Attribute Groups
 
-
 ## Create and Delete Attribute Groups
-
 
 ## Allowed Values
 
-
 ## Create Allowed Values Lists
-
 
 ## Edit Allowed Values Lists
 
-
 ## Add Values Manually & Suggested Values
-
 
 ## Load Values from a Text File
 
-
 ## Sort Values
 
-
-![Page 9](../assets/other__filter-on-parts_images__page-009.jpg)
-
+![Page 9](../.gitbook/assets/other__filter-on-parts_images__page-009.jpg)
 
 ## SmartClass
-
 
 ## Classification Management
 
@@ -272,11 +210,9 @@ The Classification page allows the user to perform most of the changes to the st
 
 category attributes, and more.
 
-
 ## Click on the folders icon
 
 to go to the Classification page.
-
 
 ### The page is divided into three different sections
 
@@ -288,105 +224,71 @@ category, a link to the items in the category (magnifying glass icon), and more
 
 Category Attributes - Includes system attributes (global) and dynamic attributes (category-
 
-
 ## specific)
-
 
 ### Click on the links below to access the following pages
 
-
 ## Structure
-
 
 ## Navigate Classification Structure
 
-
 ## Category Management
-
 
 ## Copy and Paste Categories
 
-
 ## Add New Categories
-
 
 ## Add New Parts Categories
 
-
 ## Add New File Categories
-
 
 ## Edit Categories
 
-
 ## Edit Category Properties
-
 
 ## Edit Category Details
 
-
-![Page 10](../assets/other__filter-on-parts_images__page-010.jpg)
-
+![Page 10](../.gitbook/assets/other__filter-on-parts_images__page-010.jpg)
 
 ## SmartClass
 
-
 ## Delete Category
-
 
 ## Add Category Attachments
 
-
 ## Add Category Images
-
 
 ## Assign Allowed Vales Lists
 
-
 ## Attributes
-
 
 ## Add New Attributes
 
-
 ## Add Existing Attributes
-
 
 ## Remove Attributes
 
-
 ## Manage Attributes
-
 
 ## Edit Attribute Details
 
-
 ## Sort Attributes
-
 
 ## Filter Attributes
 
-
 ## Set Attributes as Key, Required, DNA, and Read Only
-
 
 ## System Attributes
 
-
 ## Statuses
-
 
 ## Category Statuses
 
-
 ## Attribute Statuses
 
-
-![Page 11](../assets/other__filter-on-parts_images__page-011.jpg)
-
+![Page 11](../.gitbook/assets/other__filter-on-parts_images__page-011.jpg)
 
 ## Classiﬁcation
-
 
 ## Category Structure
 
@@ -396,66 +298,45 @@ categories, and leaf nodes.
 
 Clicking on the arrow next to a parent category name will expand any child categories beneath.
 
-
-![Page 12](../assets/other__filter-on-parts_images__page-012.jpg)
-
+![Page 12](../.gitbook/assets/other__filter-on-parts_images__page-012.jpg)
 
 ## Classiﬁcation
 
-
 ## Leaf node (designated with the leaf icon
-
 
 ## )
 
-
 ### Click on the links below to access the following pages
-
 
 ## Navigate Classification Structure
 
-
 ## Category Management
-
 
 ## Copy and Paste Categories
 
-
 ## Add New Categories
-
 
 ## Add New Parts Categories
 
-
 ## Add New File Categories
-
 
 ## Edit Categories
 
-
 ## Edit Category Properties
-
 
 ## Edit Category Details
 
-
 ## Delete Category
-
 
 ## Add Category Attachments
 
-
 ## Add Category Images
-
 
 ## Assign Allowed Vales Lists
 
-
-![Page 13](../assets/other__filter-on-parts_images__page-013.jpg)
-
+![Page 13](../.gitbook/assets/other__filter-on-parts_images__page-013.jpg)
 
 ## Structure
-
 
 ## Navigate Classification Structure
 
@@ -473,12 +354,9 @@ The search bar at the top can be used to filter quickly as well.
 
 To pin the expanded window, select the thumbtack icon.
 
-
-![Page 14](../assets/other__filter-on-parts_images__page-014.jpg)
-
+![Page 14](../.gitbook/assets/other__filter-on-parts_images__page-014.jpg)
 
 ## Structure
-
 
 ## OR
 
@@ -488,18 +366,13 @@ Select the desired category from the expanded menu screen.
 
 Navigate the breadcrumb to the desired category and click on it.
 
-
-![Page 15](../assets/other__filter-on-parts_images__page-015.jpg)
-
+![Page 15](../.gitbook/assets/other__filter-on-parts_images__page-015.jpg)
 
 ## Structure
 
-
-![Page 16](../assets/other__filter-on-parts_images__page-016.jpg)
-
+![Page 16](../.gitbook/assets/other__filter-on-parts_images__page-016.jpg)
 
 ## Structure
-
 
 ## Category Management
 
@@ -507,48 +380,32 @@ Category management encompasses the abilities to create, edit, delete and otherw
 
 categories within SmartClass.
 
-
 ### Click on the links below to access the following pages
-
 
 ## Copy and Paste Categories
 
-
 ## Move Categories(Prune & Graft)
-
 
 ## Add New Categories
 
-
 ## Add New Parts Categories
-
 
 ## Add New File Categories
 
-
 ## Edit Categories
-
 
 ## Edit Category Properties
 
-
 ## Edit Category Details
-
 
 ## Delete Category
 
-
 ## Route from Categories to Items
-
 
 ## Add Category Attachments
 
-
 ## Add Category Images
-
 
 ## Assign Allowed Vales Lists
 
-
-![Page 17](../assets/other__filter-on-parts_images__page-017.jpg)
-
+![Page 17](../.gitbook/assets/other__filter-on-parts_images__page-017.jpg)

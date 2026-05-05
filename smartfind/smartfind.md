@@ -4,24 +4,19 @@ description: SmartFind
 
 # SmartFind
 
-
 ## SmartFind
 
 The report may be saved for a later viewing or exported into an excel file using the functions on the top
 
 right.
 
-
 ## Duplicate Report from SmartAnalytics
-
 
 ## Select SmartAnalytics from the drop down menu
 
 Select Data Analysis Reports and then Duplicate Finder Report.
 
-
-![Page 1](../assets/smartfind__smartfind_images__page-001.jpg)
-
+![Page 1](../.gitbook/assets/smartfind__smartfind_images__page-001.jpg)
 
 ## SmartFind
 
@@ -43,9 +38,7 @@ will be chosen in the next step.
 
 Select Ok once the correct category has been chosen.
 
-
-![Page 2](../assets/smartfind__smartfind_images__page-002.jpg)
-
+![Page 2](../.gitbook/assets/smartfind__smartfind_images__page-002.jpg)
 
 ## SmartFind
 
@@ -53,9 +46,7 @@ Once the category has been selected, the key attributes will automatically appea
 
 The user may use this window to choose any attributes that the duplicate report will need to run.
 
-
-![Page 3](../assets/smartfind__smartfind_images__page-003.jpg)
-
+![Page 3](../.gitbook/assets/smartfind__smartfind_images__page-003.jpg)
 
 ## SmartFind
 
@@ -63,9 +54,7 @@ If there is a specific batch or deliverable that the duplicate report needs to r
 
 Select Ok when complete.
 
-
-![Page 4](../assets/smartfind__smartfind_images__page-004.jpg)
-
+![Page 4](../.gitbook/assets/smartfind__smartfind_images__page-004.jpg)
 
 ## SmartFind
 
@@ -79,20 +68,15 @@ travel directly to those specific parts.
 
 The report may be saved for a later viewing or exported into an excel file using the functions on the top
 
-
-![Page 5](../assets/smartfind__smartfind_images__page-005.jpg)
-
+![Page 5](../.gitbook/assets/smartfind__smartfind_images__page-005.jpg)
 
 ## SmartFind
 
 right.
 
-
-![Page 6](../assets/smartfind__smartfind_images__page-006.jpg)
-
+![Page 6](../.gitbook/assets/smartfind__smartfind_images__page-006.jpg)
 
 ## SmartFind
-
 
 ## Filter on Parts
 
@@ -106,7 +90,7 @@ discrete attribute values to select from (for example, Football, Soccer Ball, Vo
 
 Filters are set up based on Key Attributes.
 
-For more information on Key Attributes, please view the help page:  Set Attributes as Key, Required,
+For more information on Key Attributes, please view the help page: Set Attributes as Key, Required,
 
 DNA, and Read Only.
 
@@ -122,9 +106,7 @@ expand to show the Allowed Value List.
 
 Please see: Creating an Allowed Value List (AVL) for more information.
 
-
-![Page 7](../assets/smartfind__smartfind_images__page-007.jpg)
-
+![Page 7](../.gitbook/assets/smartfind__smartfind_images__page-007.jpg)
 
 ## SmartFind
 
@@ -136,29 +118,21 @@ Alternatively, you can click on more than one value under one attribute filter o
 
 filters.
 
-
 ### The following options
 
 1. Expand All = Show all attribute values under all filters
 
-
-![Page 8](../assets/smartfind__smartfind_images__page-008.jpg)
-
+![Page 8](../.gitbook/assets/smartfind__smartfind_images__page-008.jpg)
 
 ## SmartFind
 
 2. Collapse All = Hide all attribute values under all filters
-
 3. Select All = Select all of the attribute values under a specific attribute filter
-
 4. Clear All = Remove all checkmarks for all attribute values selected
-
 
 ### The following options under Advanced Filters
 
-
-![Page 9](../assets/smartfind__smartfind_images__page-009.jpg)
-
+![Page 9](../.gitbook/assets/smartfind__smartfind_images__page-009.jpg)
 
 ## SmartFind
 
@@ -168,12 +142,9 @@ Assigned User Filter = Allows you to filter on one or multiple Users
 
 Please see the Advanced Filtering Page to learn more about advanced filtering in SmartFind.
 
-
-![Page 10](../assets/smartfind__smartfind_images__page-010.jpg)
-
+![Page 10](../.gitbook/assets/smartfind__smartfind_images__page-010.jpg)
 
 ## Filter on Parts
-
 
 ## Assigned User Filtering
 
@@ -187,9 +158,7 @@ Filters. Let's start with system attribute filters, under this set of filters yo
 
 by item status.
 
-
-![Page 11](../assets/smartfind__smartfind_images__page-011.jpg)
-
+![Page 11](../.gitbook/assets/smartfind__smartfind_images__page-011.jpg)
 
 ## Filter on Parts
 
@@ -201,9 +170,7 @@ Type the name of the user and you can then pick the user you would like, check t
 
 name and click confirm.
 
-
-![Page 12](../assets/smartfind__smartfind_images__page-012.jpg)
-
+![Page 12](../.gitbook/assets/smartfind__smartfind_images__page-012.jpg)
 
 ## Filter on Parts
 
@@ -213,18 +180,13 @@ bottom right to apply the filter and view your results.
 
 Once you click confirm you can see all of the items that are assigned to the user.
 
-
-![Page 13](../assets/smartfind__smartfind_images__page-013.jpg)
-
+![Page 13](../.gitbook/assets/smartfind__smartfind_images__page-013.jpg)
 
 ## Filter on Parts
 
-
-![Page 14](../assets/smartfind__smartfind_images__page-014.jpg)
-
+![Page 14](../.gitbook/assets/smartfind__smartfind_images__page-014.jpg)
 
 ## Filter on Parts
-
 
 ## Category Filtering
 
@@ -240,12 +202,9 @@ clicking the highlighted "Alpha Sort" or " Relevance Sort" icons. You will see t
 
 as you click the icons.
 
-
-![Page 15](../assets/smartfind__smartfind_images__page-015.jpg)
-
+![Page 15](../.gitbook/assets/smartfind__smartfind_images__page-015.jpg)
 
 ## Filter on Parts
-
 
 ## Data Validation Filtering
 
@@ -261,9 +220,7 @@ click the plus sign next to the filter to expand the list of filterable values.
 
 2. The user can now click on any of the Violation Types listed to filter.
 
-
-![Page 16](../assets/smartfind__smartfind_images__page-016.jpg)
-
+![Page 16](../.gitbook/assets/smartfind__smartfind_images__page-016.jpg)
 
 ## Filter on Parts
 
@@ -279,6 +236,4 @@ The user can then click NONE, which will filter the items that do not have viola
 
 OR the user can click ANY, which will filter the items that have any type of violation for that attribute.
 
-
-![Page 17](../assets/smartfind__smartfind_images__page-017.jpg)
-
+![Page 17](../.gitbook/assets/smartfind__smartfind_images__page-017.jpg)

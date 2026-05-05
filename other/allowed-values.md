@@ -4,9 +4,7 @@ description: Allowed Values
 
 # Allowed Values
 
-
 ## Allowed Values
-
 
 ## Create Allowed Values Lists (AVL)
 
@@ -16,9 +14,7 @@ In "Add New AVL...", type desired name for the Allowed Value List.
 
 Once you type the desired name, click on Apply or press Enter on your keyboard.
 
-
-![Page 1](../assets/other__allowed-values_images__page-001.jpg)
-
+![Page 1](../.gitbook/assets/other__allowed-values_images__page-001.jpg)
 
 ## Allowed Values
 
@@ -28,12 +24,9 @@ To add values to the Allowed Values List, select " Edit Values"
 
 For more on adding values, see How to Edit an AVL.
 
-
-![Page 2](../assets/other__allowed-values_images__page-002.jpg)
-
+![Page 2](../.gitbook/assets/other__allowed-values_images__page-002.jpg)
 
 ## Allowed Values
-
 
 ## Edit Allowed Values List(AVL)
 
@@ -51,42 +44,29 @@ Click on the drop-down next to Details and select Edit.
 
 Also, an AVL can be unassigned by clicking on Unassign.
 
-
-![Page 3](../assets/other__allowed-values_images__page-003.jpg)
-
+![Page 3](../.gitbook/assets/other__allowed-values_images__page-003.jpg)
 
 ## Allowed Values
-
 
 ### Click on the links below to access the following pages
 
-
 ## Add Values Manually & Suggested Values
-
 
 ## Load Values from a Text File
 
-
 ## Sort Values
 
-
-![Page 4](../assets/other__allowed-values_images__page-004.jpg)
-
+![Page 4](../.gitbook/assets/other__allowed-values_images__page-004.jpg)
 
 ## Allowed Values
 
-
-![Page 5](../assets/other__allowed-values_images__page-005.jpg)
-
+![Page 5](../.gitbook/assets/other__allowed-values_images__page-005.jpg)
 
 ## Edit Allowed Values Lists
 
-
 ## Add Values Manually & Suggested Values
 
-
 ### This feature allows you to add values to an AVL
-
 
 ## Values can be added manually
 
@@ -98,9 +78,7 @@ Go to the Allowed Values page to select an attribute.
 
 Under Values, select Edit Values.
 
-
-![Page 6](../assets/other__allowed-values_images__page-006.jpg)
-
+![Page 6](../.gitbook/assets/other__allowed-values_images__page-006.jpg)
 
 ## Edit Allowed Values Lists
 
@@ -114,20 +92,15 @@ allows you to add new values to the AVL.
 
 Now, click on Add All Suggested to add all values or select the checkboxes to add individual values.
 
-
-![Page 7](../assets/other__allowed-values_images__page-007.jpg)
-
+![Page 7](../.gitbook/assets/other__allowed-values_images__page-007.jpg)
 
 ## Edit Allowed Values Lists
 
 Click on Confirm.
 
-
-![Page 8](../assets/other__allowed-values_images__page-008.jpg)
-
+![Page 8](../.gitbook/assets/other__allowed-values_images__page-008.jpg)
 
 ## Edit Allowed Values Lists
-
 
 ## Load Values from a Text File
 
@@ -139,39 +112,29 @@ Select the desired file and click on Open.
 
 Then, click on Load Values to add all values from the file.
 
-
-![Page 9](../assets/other__allowed-values_images__page-009.jpg)
-
+![Page 9](../.gitbook/assets/other__allowed-values_images__page-009.jpg)
 
 ## Edit Allowed Values Lists
 
 Now all new values have been loaded in the AVL.
 
-
-![Page 10](../assets/other__allowed-values_images__page-010.jpg)
-
+![Page 10](../.gitbook/assets/other__allowed-values_images__page-010.jpg)
 
 ## Edit Allowed Values Lists
 
-
-![Page 11](../assets/other__allowed-values_images__page-011.jpg)
-
+![Page 11](../.gitbook/assets/other__allowed-values_images__page-011.jpg)
 
 ## Edit Allowed Values Lists
-
 
 ## Sort Values
 
 Go to the Allowed Values page.
 
-
 ## Values can be sorted by clicking on Sorting Mode
 
 Values can be sorted alphabetically by Clicking on Alpha-Sort
 
-
-![Page 12](../assets/other__allowed-values_images__page-012.jpg)
-
+![Page 12](../.gitbook/assets/other__allowed-values_images__page-012.jpg)
 
 ## Edit Allowed Values Lists
 
@@ -181,32 +144,23 @@ Also, all the highlighted icons on the right can be used for sorting.
 
 If you click on the trash icon, a value can be deleted.
 
-
-![Page 13](../assets/other__allowed-values_images__page-013.jpg)
-
+![Page 13](../.gitbook/assets/other__allowed-values_images__page-013.jpg)
 
 ## Edit Allowed Values Lists
 
 Click on Display Mode to make all changes.
 
-
-![Page 14](../assets/other__allowed-values_images__page-014.jpg)
-
+![Page 14](../.gitbook/assets/other__allowed-values_images__page-014.jpg)
 
 ## Convergence PIM Online
 
-
 ## SmartCreate
-
 
 ## How to Create a Part
 
-
-![Page 15](../assets/other__allowed-values_images__page-015.jpg)
-
+![Page 15](../.gitbook/assets/other__allowed-values_images__page-015.jpg)
 
 ## SmartCreate
-
 
 ## Create Parts
 
@@ -218,16 +172,13 @@ Select a category from the category data model located on the left side of the s
 
 selected category will be displayed on the right.
 
-
 ## Locate the desired category and select "Continue."
 
 The third screen will display only Key Attributes for data entry.
 
 As each value is entered, the possible duplicates will appear at the bottom.
 
-
-![Page 16](../assets/other__allowed-values_images__page-016.jpg)
-
+![Page 16](../.gitbook/assets/other__allowed-values_images__page-016.jpg)
 
 ## SmartCreate
 
@@ -249,6 +200,4 @@ Users may utilize the ability to add to a batch, deliverable or item access grou
 
 Select Save when complete.
 
-
-![Page 17](../assets/other__allowed-values_images__page-017.jpg)
-
+![Page 17](../.gitbook/assets/other__allowed-values_images__page-017.jpg)

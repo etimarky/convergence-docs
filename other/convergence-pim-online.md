@@ -4,9 +4,7 @@ description: Convergence PIM Online
 
 # Convergence PIM Online
 
-
 ## Convergence PIM Online
-
 
 ## SmartTeardown
 
@@ -20,23 +18,17 @@ data to employees. Long gone are the days of finding the latest PowerPoint or Ex
 
 date with dynamic data utilizing the power of CDS PIM Online!
 
-
 ## General Management
-
 
 ## Family Management
 
-
-![Page 1](../assets/other__convergence-pim-online_images__page-001.jpg)
-
+![Page 1](../.gitbook/assets/other__convergence-pim-online_images__page-001.jpg)
 
 ## SmartTeardown
-
 
 ## Adding a Product
 
 A product in SmartTeardown refers to an item, appliance, part etc. such as a "dryer, washing machine,
-
 
 ## dishwasher, etc."
 
@@ -50,9 +42,7 @@ All information must be filled in.
 
 If features were identified in Family Management, these will appear as an option on this page too.
 
-
-![Page 2](../assets/other__convergence-pim-online_images__page-002.jpg)
-
+![Page 2](../.gitbook/assets/other__convergence-pim-online_images__page-002.jpg)
 
 ## SmartTeardown
 
@@ -62,13 +52,11 @@ beforehand in Family Management.
 
 In this case we are adding a dryer model, so we will see Dryers show up on this front page now.
 
-
-![Page 3](../assets/other__convergence-pim-online_images__page-003.jpg)
-
+![Page 3](../.gitbook/assets/other__convergence-pim-online_images__page-003.jpg)
 
 ## SmartTeardown
 
-Drilling into the Dryer family, we will see all manufacturers for dryers.  In this example, GE
+Drilling into the Dryer family, we will see all manufacturers for dryers. In this example, GE
 
 Appliances is the only manufacturer available but if we go a step further, we will see all models that
 
@@ -78,9 +66,7 @@ appear so that users can easily filter on specific features which will generate 
 
 models and manufacturers.
 
-
-![Page 4](../assets/other__convergence-pim-online_images__page-004.jpg)
-
+![Page 4](../.gitbook/assets/other__convergence-pim-online_images__page-004.jpg)
 
 ## SmartTeardown
 
@@ -94,9 +80,7 @@ Attachments.
 
 Below the general model information, Hierarchy can be edited or built out. Once again, there cannot be
 
-
-![Page 5](../assets/other__convergence-pim-online_images__page-005.jpg)
-
+![Page 5](../.gitbook/assets/other__convergence-pim-online_images__page-005.jpg)
 
 ## SmartTeardown
 
@@ -108,18 +92,13 @@ When blue, this indicates that there is information on that level.
 
 If a gray category is selected, there will be a message indicating that there is no segment data.
 
-
-![Page 6](../assets/other__convergence-pim-online_images__page-006.jpg)
-
+![Page 6](../.gitbook/assets/other__convergence-pim-online_images__page-006.jpg)
 
 ## SmartTeardown
 
-
-![Page 7](../assets/other__convergence-pim-online_images__page-007.jpg)
-
+![Page 7](../.gitbook/assets/other__convergence-pim-online_images__page-007.jpg)
 
 ## SmartTeardown
-
 
 ## Family Management
 
@@ -137,12 +116,9 @@ Once inside Family Management, the user has the option to add, edit, delete or e
 
 To add a family, navigate to the left half of the screen and select the orange icon. This will allow the
 
-
 ## user to then select "Add."
 
-
-![Page 8](../assets/other__convergence-pim-online_images__page-008.jpg)
-
+![Page 8](../.gitbook/assets/other__convergence-pim-online_images__page-008.jpg)
 
 ## SmartTeardown
 
@@ -154,9 +130,7 @@ editing at a later time.
 
 On the right side of the screen, families are able to be edited, deleted or exported.
 
-
-![Page 9](../assets/other__convergence-pim-online_images__page-009.jpg)
-
+![Page 9](../.gitbook/assets/other__convergence-pim-online_images__page-009.jpg)
 
 ## SmartTeardown
 
@@ -168,9 +142,7 @@ region(s) will only show up when that region is chosen in the drop down on the t
 
 If no regions are selected, all regions are assumed.
 
-
-![Page 10](../assets/other__convergence-pim-online_images__page-010.jpg)
-
+![Page 10](../.gitbook/assets/other__convergence-pim-online_images__page-010.jpg)
 
 ## SmartTeardown
 
@@ -180,9 +152,7 @@ These can then be selected on products when creating on the SmartTeardown main s
 
 Feature sets can also be edited and deleted on this screen as well.
 
-
-![Page 11](../assets/other__convergence-pim-online_images__page-011.jpg)
-
+![Page 11](../.gitbook/assets/other__convergence-pim-online_images__page-011.jpg)
 
 ## SmartTeardown
 
@@ -200,9 +170,7 @@ indefinitely.
 
 There will be one warning notifying the user of this. The deletion cannot be undone.
 
-
-![Page 12](../assets/other__convergence-pim-online_images__page-012.jpg)
-
+![Page 12](../.gitbook/assets/other__convergence-pim-online_images__page-012.jpg)
 
 ## SmartTeardown
 
@@ -224,18 +192,13 @@ Fasteners and Segment data tabs are important in this template but "ListInfo" is
 
 be ignored when setting up segment and fastener data.
 
-
-![Page 13](../assets/other__convergence-pim-online_images__page-013.jpg)
-
+![Page 13](../.gitbook/assets/other__convergence-pim-online_images__page-013.jpg)
 
 ## SmartTeardown
 
-
-![Page 14](../assets/other__convergence-pim-online_images__page-014.jpg)
-
+![Page 14](../.gitbook/assets/other__convergence-pim-online_images__page-014.jpg)
 
 ## SmartTeardown
-
 
 ## General Management
 
@@ -251,9 +214,7 @@ Navigate to SmartTeardown, select "Management" in the top Right, and then "Gener
 
 Choose the area that needs information added. Each page allows to "add" new.
 
-
-![Page 15](../assets/other__convergence-pim-online_images__page-015.jpg)
-
+![Page 15](../.gitbook/assets/other__convergence-pim-online_images__page-015.jpg)
 
 ## SmartTeardown
 
@@ -265,17 +226,12 @@ Users can select entries and edit or delete them as well.
 
 Edit is in the top right, as well as delete.
 
-
-![Page 16](../assets/other__convergence-pim-online_images__page-016.jpg)
-
+![Page 16](../.gitbook/assets/other__convergence-pim-online_images__page-016.jpg)
 
 ## SmartTeardown
 
 Entries can also be deleted on the left hand side by hovering over them.
 
-
 ## Translate
 
-
-![Page 17](../assets/other__convergence-pim-online_images__page-017.jpg)
-
+![Page 17](../.gitbook/assets/other__convergence-pim-online_images__page-017.jpg)

@@ -4,31 +4,23 @@ description: How to Display Images in Items
 
 # How to Display Images in Items
 
-
 ## How to Display Images in Items
 
-
 ### Also, update all the properties under this attribute like following changes below
-
 
 ## File Type: Select "Image"
 
 Classification Category: Select the File Category that was created earlier. Images will be stored in
 
-
 ## that category
-
 
 ## File Storage: Select "Azure Storage"
 
 File Storage Configuration: Select "Default" or Select "Category Images"; this depends on the
 
-
 ## Storage Configuration
 
-
-![Page 1](../assets/getting-started__how-to-display-images-in-items_images__page-001.jpg)
-
+![Page 1](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-001.jpg)
 
 ## How to Display Images in Items
 
@@ -36,9 +28,7 @@ Go to the Parent or child categories where images will be displayed and add the 
 
 attribute.
 
-
-![Page 2](../assets/getting-started__how-to-display-images-in-items_images__page-002.jpg)
-
+![Page 2](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-002.jpg)
 
 ## How to Display Images in Items
 
@@ -46,18 +36,13 @@ Double-click on the attribute that was just added and then click on Edit.
 
 Now update the Summary Attribute to be "True" under Properties.
 
-
-![Page 3](../assets/getting-started__how-to-display-images-in-items_images__page-003.jpg)
-
+![Page 3](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-003.jpg)
 
 ## How to Display Images in Items
 
-
-![Page 4](../assets/getting-started__how-to-display-images-in-items_images__page-004.jpg)
-
+![Page 4](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-004.jpg)
 
 ## How to Display Images in Items
-
 
 ## Manually Adding Image by Item
 
@@ -73,9 +58,7 @@ Click on +Add to load an image.
 
 Click on the document to be displayed.
 
-
-![Page 5](../assets/getting-started__how-to-display-images-in-items_images__page-005.jpg)
-
+![Page 5](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-005.jpg)
 
 ## How to Display Images in Items
 
@@ -85,9 +68,7 @@ In Edit, if you would like to add more images to the same item, hover over the i
 
 If you would like to delete an image from an item, hover over the image and select "-Remove".
 
-
-![Page 6](../assets/getting-started__how-to-display-images-in-items_images__page-006.jpg)
-
+![Page 6](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-006.jpg)
 
 ## How to Display Images in Items
 
@@ -95,29 +76,21 @@ Now multiple images are displayed under a part. These can be modified individual
 
 arrows.
 
-
-![Page 7](../assets/getting-started__how-to-display-images-in-items_images__page-007.jpg)
-
+![Page 7](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-007.jpg)
 
 ## How to Display Images in Items
-
 
 ## Adding Multiple Images Using Import Manger
 
 An Excel file must be set up first before the import process can begin.
 
-
 ### It must look like the attached list. This includes
-
 
 ## The column headings matching the format of
 
-
 ## ItemNumber ( no spaces)
 
-
-## ImagePath  ( no spaces)
-
+## ImagePath ( no spaces)
 
 ## The worksheet itself must be named "Image."
 
@@ -131,12 +104,9 @@ The image must be in PNG format.
 
 It is most simple to, but not a requirement to name the image file the same name as the part number.
 
-
 ## Locate the Import Manager and select Item Data
 
-
-![Page 8](../assets/getting-started__how-to-display-images-in-items_images__page-008.jpg)
-
+![Page 8](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-008.jpg)
 
 ## How to Display Images in Items
 
@@ -156,12 +126,9 @@ selected as Update.
 
 When loading images, the user must expand the arrow next to " Item Options."
 
-
 ### The Item Options will open up the following
 
-
-![Page 9](../assets/getting-started__how-to-display-images-in-items_images__page-009.jpg)
-
+![Page 9](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-009.jpg)
 
 ## How to Display Images in Items
 
@@ -169,14 +136,13 @@ Default Category: This will always default to " RootTo Be Classified".
 
 This can be changed to any target category, but will always default if left alone.
 
-New Batch: This will always default to " Default_Batch" meaning that there will always be a leaf node
+New Batch: This will always default to " Default\_Batch" meaning that there will always be a leaf node
 
 by that name under " To Be Classified" where parts will automatically be delivered to if they are not
 
 given another category path.
 
 The user can rename this batch to anything else, creating additional leaf nodes under " To Be
-
 
 ## Classified."
 
@@ -190,16 +156,13 @@ Select Import Files from Directory and choose your category path.
 
 Once the category/image path has been selected, drop to the bottom of the mapping page.
 
-
-![Page 10](../assets/getting-started__how-to-display-images-in-items_images__page-010.jpg)
-
+![Page 10](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-010.jpg)
 
 ## How to Display Images in Items
 
 Locate the File Number on the drop down from the excel file chosen in previous steps.
 
 "Document.0" will be the default but since images are being uploaded, this must be changed to
-
 
 ## Image.0
 
@@ -213,45 +176,33 @@ Select Validate.
 
 The ThickClient will then validate the data to ensure there are no errors or discrepancies.
 
-
 ## As long as there are no errors, select 'Next."
 
-
-![Page 11](../assets/getting-started__how-to-display-images-in-items_images__page-011.jpg)
-
+![Page 11](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-011.jpg)
 
 ## How to Display Images in Items
 
 Select Import.
 
-
-![Page 12](../assets/getting-started__how-to-display-images-in-items_images__page-012.jpg)
-
+![Page 12](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-012.jpg)
 
 ## How to Display Images in Items
 
 The import process will take place and once complete, select Done.
 
-
-![Page 13](../assets/getting-started__how-to-display-images-in-items_images__page-013.jpg)
-
+![Page 13](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-013.jpg)
 
 ## How to Display Images in Items
 
 Finally, locate the part in SmartFind and notice the updated image.
 
-
-![Page 14](../assets/getting-started__how-to-display-images-in-items_images__page-014.jpg)
-
+![Page 14](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-014.jpg)
 
 ## Convergence PIM Online
 
-
-![Page 15](../assets/getting-started__how-to-display-images-in-items_images__page-015.jpg)
-
+![Page 15](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-015.jpg)
 
 ## Convergence PIM Online
-
 
 ## SmartTrack
 
@@ -263,27 +214,19 @@ With SmartTrack, you can easily locate and retrieve data from any source, ensuri
 
 have access to the information you need.
 
-
 ## How to Navigate SmartTrack
-
 
 ## Approving and Rejecting Parts
 
-
 ## Set up Owners and Tasks for a Deliverable
-
 
 ## Create and Manage a Deliverable
 
-
 ## Filter, Sort, and Search Items in SmartTrack
 
-
-![Page 16](../assets/getting-started__how-to-display-images-in-items_images__page-016.jpg)
-
+![Page 16](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-016.jpg)
 
 ## SmartTrack
-
 
 ## How to Navigate SmartTrack
 
@@ -292,7 +235,6 @@ SmartTrack is a powerful tool for tracking and managing data within your organiz
 SmartTrack, you can easily locate and retrieve data from any source, ensuring that you always have
 
 access to the information you need.
-
 
 ### To navigate the SmartTrack module, follow these steps
 
@@ -344,6 +286,4 @@ allowing you to track data usage and access across your organization. To view au
 
 the "Audit Logs" tab in the main menu.
 
-
-![Page 17](../assets/getting-started__how-to-display-images-in-items_images__page-017.jpg)
-
+![Page 17](../.gitbook/assets/getting-started__how-to-display-images-in-items_images__page-017.jpg)

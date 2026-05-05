@@ -4,7 +4,6 @@ description: SmartTrack
 
 # SmartTrack
 
-
 ## SmartTrack
 
 Overall, the SmartTrack module is a valuable tool for tracking, managing, and organizing data within
@@ -13,12 +12,9 @@ your organization. By using the features and functions described above, you can 
 
 retrieve data, track its movement and usage, and manage user access to ensure data security.
 
-
-![Page 1](../assets/smarttrack__smarttrack_images__page-001.jpg)
-
+![Page 1](../.gitbook/assets/smarttrack__smarttrack_images__page-001.jpg)
 
 ## SmartTrack
-
 
 ## Set up Owners and Tasks for a Deliverable
 
@@ -60,9 +56,7 @@ Add rejected owners to a task. This is someone who will be working with the item
 
 rejected within a task.
 
-
-![Page 2](../assets/smarttrack__smarttrack_images__page-002.jpg)
-
+![Page 2](../.gitbook/assets/smarttrack__smarttrack_images__page-002.jpg)
 
 ## SmartTrack
 
@@ -76,20 +70,15 @@ need to scroll down). Fill out the required fields, add primary and rejected, us
 
 click Save in the top right of your screen.
 
-
-![Page 3](../assets/smarttrack__smarttrack_images__page-003.jpg)
-
+![Page 3](../.gitbook/assets/smarttrack__smarttrack_images__page-003.jpg)
 
 ## SmartTrack
 
 You have sucessfully added users and tasks for a deliverable.
 
-
-![Page 4](../assets/smarttrack__smarttrack_images__page-004.jpg)
-
+![Page 4](../.gitbook/assets/smarttrack__smarttrack_images__page-004.jpg)
 
 ## SmartTrack
-
 
 ## Create and Manage a Deliverable
 
@@ -117,14 +106,11 @@ Log in to SmartTrack: To access the SmartTrack module, log in to your Convergenc
 
 Services account. This will bring you to the dashboard where you can access all modules. Click on
 
-
 ## SmartTrack
 
 2. To create a deliverable first click on the "Manage Deliverable" button in the top right of the screen.
 
-
-![Page 5](../assets/smarttrack__smarttrack_images__page-005.jpg)
-
+![Page 5](../.gitbook/assets/smarttrack__smarttrack_images__page-005.jpg)
 
 ## SmartTrack
 
@@ -134,21 +120,19 @@ can click on the edit button next to any of them to edit a current deliverable.
 
 4. Now you can add all of the information that your new deliverable requires. On the right half of the
 
-page, you can add tasks and owners and groups to the tasks with their respective buttons.  Once you
+page, you can add tasks and owners and groups to the tasks with their respective buttons. Once you
 
 have finished entering in the information, click on the Save button in the top right of the screen to save
 
 your progress and create the deliverable.
 
-
-![Page 6](../assets/smarttrack__smarttrack_images__page-006.jpg)
-
+![Page 6](../.gitbook/assets/smarttrack__smarttrack_images__page-006.jpg)
 
 ## SmartTrack
 
 Note: All fields in red text are required to create a deliverable.
 
-5. Manage a deliverable: Once you have a deliverable created,  you can edit it two different ways. First,
+5. Manage a deliverable: Once you have a deliverable created, you can edit it two different ways. First,
 
 you can click on "Manage Deliverables" in the top right of your screen, then click the edit button next to
 
@@ -160,18 +144,13 @@ each of the deliverables when you are in the home screen of SmartTrack. This but
 
 edit all of the fields of the deliverable directly.
 
-
-![Page 7](../assets/smarttrack__smarttrack_images__page-007.jpg)
-
+![Page 7](../.gitbook/assets/smarttrack__smarttrack_images__page-007.jpg)
 
 ## SmartTrack
 
-
-![Page 8](../assets/smarttrack__smarttrack_images__page-008.jpg)
-
+![Page 8](../.gitbook/assets/smarttrack__smarttrack_images__page-008.jpg)
 
 ## SmartTrack
-
 
 ## Data Validations in SmartTrack
 
@@ -193,9 +172,7 @@ of errors based on the level of severity for the entire deliverable.
 
 display the count of errors based on the level of severity for that particular deliverable task.
 
-
-![Page 9](../assets/smarttrack__smarttrack_images__page-009.jpg)
-
+![Page 9](../.gitbook/assets/smarttrack__smarttrack_images__page-009.jpg)
 
 ## SmartTrack
 
@@ -213,9 +190,7 @@ page if there are violations present. The symbol displayed depends on the highes
 
 present.
 
-
-![Page 10](../assets/smarttrack__smarttrack_images__page-010.jpg)
-
+![Page 10](../.gitbook/assets/smarttrack__smarttrack_images__page-010.jpg)
 
 ## SmartTrack
 
@@ -231,24 +206,18 @@ a red circle that displays the count of violations on that tab.
 
 what the error is.
 
-
-![Page 11](../assets/smarttrack__smarttrack_images__page-011.jpg)
-
+![Page 11](../.gitbook/assets/smarttrack__smarttrack_images__page-011.jpg)
 
 ## SmartTrack
 
 11. If you click edit, the attributes that have a violation are still highlighted in red.
-
 12. If you make an update that resolves a violation and click save, the attribute should no longer be
 
 highlighted in red.
 
-
-![Page 12](../assets/smarttrack__smarttrack_images__page-012.jpg)
-
+![Page 12](../.gitbook/assets/smarttrack__smarttrack_images__page-012.jpg)
 
 ## SmartTrack
-
 
 ## Data Validation Filtering
 
@@ -263,14 +232,11 @@ manage specific data categories with precision and efficiency.
 Click the plus sign next to the filter to expand the list of filterable values.
 
 2. The user can now click on any of the Violation Types listed to filter.
-
 3. The "check mark" and the "error" symbol will check all of the filters and uncheck all of the filters. The
 
 filter tiles currently in use are also shown at the top of the screen.
 
-
-![Page 13](../assets/smarttrack__smarttrack_images__page-013.jpg)
-
+![Page 13](../.gitbook/assets/smarttrack__smarttrack_images__page-013.jpg)
 
 ## SmartTrack
 
@@ -286,12 +252,9 @@ OR the user can hover over "Violations", which will then provide a list on which
 
 which specific violation they want to filter that attribute by.
 
-
-![Page 14](../assets/smarttrack__smarttrack_images__page-014.jpg)
-
+![Page 14](../.gitbook/assets/smarttrack__smarttrack_images__page-014.jpg)
 
 ## Convergence PIM Online
-
 
 ## Smart Find
 
@@ -300,7 +263,6 @@ Welcome to the documentation for SmartFind, a module of Convergence PIM online s
 SmartFind is a powerful tool for searching and finding data within your organization. With its advanced
 
 search capabilities, you can easily locate the information you need, regardless of where it is stored.
-
 
 ### Some key features of SmartFind include
 
@@ -332,45 +294,31 @@ Whether you are looking for specific documents, data sets, or other information,
 
 you locate it quickly and easily.
 
-
 ### Click on the links below to access the following pages
-
 
 ## Search for Parts
 
-
 ## Search by Classification
-
 
 ## Search by Part Number
 
-
 ## Search by Keyword
-
 
 ## Navigate Data Through Category Images
 
-
 ## Reclassify Parts
-
 
 ## Copy from Another Part
 
-
 ## Find Duplicate Parts
-
 
 ## Filter on Parts
 
-
 ## Export Parts
 
-
-![Page 15](../assets/smarttrack__smarttrack_images__page-015.jpg)
-
+![Page 15](../.gitbook/assets/smarttrack__smarttrack_images__page-015.jpg)
 
 ## SmartFind
-
 
 ## Search for Parts
 
@@ -382,27 +330,19 @@ SmartFind will locate the desired category or part so the user is then able to e
 
 approve, or reject parts. Searching for a Part can be done in multiple ways.
 
-
 ### Searching for parts can be done in four ways
-
 
 ## Search by Classification
 
-
 ## Search by Part Number
-
 
 ## Search by Keyword
 
-
 ## Navigating Data Through Category Images
 
-
-![Page 16](../assets/smarttrack__smarttrack_images__page-016.jpg)
-
+![Page 16](../.gitbook/assets/smarttrack__smarttrack_images__page-016.jpg)
 
 ## Search for Parts
-
 
 ## Item Details
 
@@ -418,8 +358,6 @@ When you click the "Previous Item" button you will be taken back to the item det
 
 previous item.
 
-Clicking the "Back"  button on the item details page will bring you back to the results page of your
+Clicking the "Back" button on the item details page will bring you back to the results page of your
 
-
-![Page 17](../assets/smarttrack__smarttrack_images__page-017.jpg)
-
+![Page 17](../.gitbook/assets/smarttrack__smarttrack_images__page-017.jpg)

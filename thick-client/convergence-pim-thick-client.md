@@ -4,32 +4,25 @@ description: Convergence PIM Thick Client
 
 # Convergence PIM Thick Client
 
-
 ## Convergence PIM Thick Client
-
 
 ## Unit of Measure Editor
 
 The Unit of Measure (UOM) Editor Module allows users to maintain UOM data for each Convergence
 
-PIM database including creating new UOM’s; editing existing UOM’s and deleting UOM’s.  This module
+PIM database including creating new UOM’s; editing existing UOM’s and deleting UOM’s. This module
 
-can be accessed from the Tools menu.  If you’re not a Catalog Administrator then this module will be
+can be accessed from the Tools menu. If you’re not a Catalog Administrator then this module will be
 
 grayed out.
 
-
 ## UoM Features & Guidelines
-
 
 ## Creating a UoM
 
-
-![Page 1](../assets/thick-client__convergence-pim-thick-client_images__page-001.jpg)
-
+![Page 1](../.gitbook/assets/thick-client__convergence-pim-thick-client_images__page-001.jpg)
 
 ## Unit of Measure Editor
-
 
 ## Creating a UoM
 
@@ -43,9 +36,7 @@ Data Rate) that you want to add the new unit under, and then in the empty space,
 
 Add UoM.
 
-
-![Page 2](../assets/thick-client__convergence-pim-thick-client_images__page-002.jpg)
-
+![Page 2](../.gitbook/assets/thick-client__convergence-pim-thick-client_images__page-002.jpg)
 
 ## Unit of Measure Editor
 
@@ -65,24 +56,17 @@ log out before you can commit the changes (optionally, you can force them out wi
 
 comes up shown below).
 
-
-![Page 3](../assets/thick-client__convergence-pim-thick-client_images__page-003.jpg)
-
+![Page 3](../.gitbook/assets/thick-client__convergence-pim-thick-client_images__page-003.jpg)
 
 ## Unit of Measure Editor
 
-
-![Page 4](../assets/thick-client__convergence-pim-thick-client_images__page-004.jpg)
-
+![Page 4](../.gitbook/assets/thick-client__convergence-pim-thick-client_images__page-004.jpg)
 
 ## Integrations
 
-
-![Page 5](../assets/thick-client__convergence-pim-thick-client_images__page-005.jpg)
-
+![Page 5](../.gitbook/assets/thick-client__convergence-pim-thick-client_images__page-005.jpg)
 
 ## Integrations
-
 
 ## Teamcenter Integration
 
@@ -100,34 +84,25 @@ information you are bringing into your Teamcenter environment is clean and match
 
 you have in DFR.
 
-
 ## First Time Setup
-
 
 ## Specific PLXML Export Considerations
 
-
 ## Loading a DFR Export into Teamcenter
-
 
 ## Best Practices for Setting up Abstract Classes
 
-
 ## Best Practices for Setting up Attributes
 
-
-![Page 6](../assets/thick-client__convergence-pim-thick-client_images__page-006.jpg)
-
+![Page 6](../.gitbook/assets/thick-client__convergence-pim-thick-client_images__page-006.jpg)
 
 ## Teamcenter
-
 
 ## First Time Setup
 
 In order for your exports from DFR to Teamcenter to work, there are a few Items you must set up
 
 before your first export.
-
 
 ## Attribution Script
 
@@ -137,15 +112,11 @@ all the correct Attribution scripts have been run in your environment in order t
 
 Some Attribute values may not be available to you unless this has been done.
 
-
 ## Mapping to UoMs
-
 
 ### In Teamcenter
 
-
 ## Locate UoM Definitions in Teamcenter
-
 
 ## Unit Definition Class - Open in Classificaiton
 
@@ -153,9 +124,7 @@ Search for the Unit you are using, or do a blank search to see all
 
 See Table Image.
 
-
 ## Note Object ID for chosen UoM(s)
-
 
 ### In DFR
 
@@ -163,23 +132,17 @@ First, configure UoM(s) are all correct in DFR.
 
 Please contact your CDS representative, or refer to the information here to make sure your UoMs are
 
-
-![Page 7](../assets/thick-client__convergence-pim-thick-client_images__page-007.jpg)
-
+![Page 7](../.gitbook/assets/thick-client__convergence-pim-thick-client_images__page-007.jpg)
 
 ## Teamcenter
 
 properly set up.
 
-
 ## Open the Export Manager Module
-
 
 ## Select Classification Export
 
-
 ## Select PLM Export Type
-
 
 ## Hit Settings to open PLM Export Settings
 
@@ -189,12 +152,9 @@ You have the ability to Save (export) or Load files as well.
 
 These settings save automatically, and will now correctly map in future exports
 
-
 ## Settings for IDs
 
-
 ### When it comes to setting your Teamcenter IDs for Attributes/LOVs, there are a few different options
-
 
 ## Manual Load
 
@@ -202,21 +162,17 @@ You can load a file with this information configured, and DFR will update the at
 
 matching IDs. This may be necessary if loading into an existing Teamcenter Environment.
 
-
 ## Automatically Assign
 
 You can specify a staring ID Number (must be a positive integer) and DFR will create and assign the IDs
 
 to Attributes throughout the tree. This will follow the rules outlined in (Best Practices -
 
-
 ## Abstract Classes)
 
 At a high level, this will add a unique ID to any attribute with a unique name. Any repeated occurrences
 
-
-![Page 8](../assets/thick-client__convergence-pim-thick-client_images__page-008.jpg)
-
+![Page 8](../.gitbook/assets/thick-client__convergence-pim-thick-client_images__page-008.jpg)
 
 ## Teamcenter
 
@@ -224,16 +180,13 @@ will have the same ID.
 
 This will occur when you select "Regenerate Teamcenter IDs" on Export (See PLMXML Export for
 
-
 ## examples)
-
 
 ## Manual Override
 
 After automatically assigning the IDs, you could go back to any attribute, and manually set the ID if only
 
 some need to be specified.
-
 
 ## LOV IDs
 
@@ -243,12 +196,9 @@ These can be assigned in any of the three ways mentioned above as well. LOV list
 
 imported into Teamcenter even if they are not used, if they have an ID created and assigned to them.
 
-
-![Page 9](../assets/thick-client__convergence-pim-thick-client_images__page-009.jpg)
-
+![Page 9](../.gitbook/assets/thick-client__convergence-pim-thick-client_images__page-009.jpg)
 
 ## Teamcenter
-
 
 ## PLMXML Specific Export Considerations
 
@@ -258,9 +208,7 @@ when doing a PLMXML Export, that are different from the standard Export Process.
 
 The following Items will need to be considered in order to have a successful PLMXML Load into
 
-
 ### Teamcenter
-
 
 ## Regenerate IDs
 
@@ -272,7 +220,7 @@ This will cause the Convergence PIM tool to systematically go through the Classi
 
 all IDs, to Attributes, LOVs, and Classes.
 
-It will create Abstract classes with the  "Is Abstract" Flag set to TRUE on Classes.
+It will create Abstract classes with the "Is Abstract" Flag set to TRUE on Classes.
 
 It will separate out attributes into multiples if there are instances of the same attribute name with a
 
@@ -296,7 +244,6 @@ that the top level of your classification structure is like to "ICM' as it's par
 
 correctly in Teamcenter Classification.
 
-
 ## Convergence PIM Validations
 
 In order to have a successful export/import, you will need to first make sure that the data is correctly
@@ -307,7 +254,6 @@ in the data. It is important to make sure that in particular, there are no Nulls
 
 Mandatory.
 
-
 ## Check for Duplicate Attributes
 
 Because of the common issue of having duplicate Attributes due to collisions, it is advised that you
@@ -316,9 +262,7 @@ check the data for duplicates before loading into Teamcenter in order to keep yo
 
 environment clean.
 
-
-![Page 10](../assets/thick-client__convergence-pim-thick-client_images__page-010.jpg)
-
+![Page 10](../.gitbook/assets/thick-client__convergence-pim-thick-client_images__page-010.jpg)
 
 ## Teamcenter
 
@@ -337,7 +281,6 @@ The likely causes are: LOV conflicts, Data Type mismatch, Required Attribute mis
 assigned ID.
 
 Once you resolve these issues, re-run your export and test again for duplicates.
-
 
 ## Check for Blank Values(Item Files)
 
@@ -363,12 +306,9 @@ contains the defined attribute has a different ID than the attribute on the stor
 
 exported incorrectly.
 
-
-![Page 11](../assets/thick-client__convergence-pim-thick-client_images__page-011.jpg)
-
+![Page 11](../.gitbook/assets/thick-client__convergence-pim-thick-client_images__page-011.jpg)
 
 ## Teamcenter
-
 
 ## Look out for file mismatches
 
@@ -382,6 +322,4 @@ Time which can help you track this. Consider using this, or adding additional in
 
 names in order to prevent any mismatches.
 
-
-![Page 12](../assets/thick-client__convergence-pim-thick-client_images__page-012.jpg)
-
+![Page 12](../.gitbook/assets/thick-client__convergence-pim-thick-client_images__page-012.jpg)
